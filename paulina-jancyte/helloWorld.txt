@@ -1,1 +1,2 @@
 Hello World from merge-conflict branch!
+Hello from feature branch!
